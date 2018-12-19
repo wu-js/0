@@ -1,2 +1,3 @@
-ComSoc election candidates
-
+QQQ
+KKK
+SSS
